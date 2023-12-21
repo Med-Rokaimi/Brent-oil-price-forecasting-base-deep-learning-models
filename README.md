@@ -17,5 +17,5 @@ pip install -r requirements.txt
 ```
 python main.py [model name]
 ```
-select the network you want from the available model names showed on the main.py (for instance: Bi-LSTM, CNN-LSTM-att, encoder-decoder-LSTM)
+You can select [model name] from the available model names shown on the main.py (for instance: Bi-LSTM, CNN-LSTM-att, encoder-decoder-LSTM)
 4. you can setup selected features (USD, sentiment score, Brent price, you can add as many as columns you want) from arg.py in the config folder. From argg.py you can also tunning models hyperparameters. 
